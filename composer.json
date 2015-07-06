@@ -16,12 +16,6 @@
             "name": "nasr"
         }
     ],
-    "repositories": [
-      {
-        "type": "vcs",
-        "url": "https://github.com/nasr/sonata-spatial"
-      }
-    ],
     "require": {
         "symfony/form": "~2.2",
         "twig/twig": "~1.12",
