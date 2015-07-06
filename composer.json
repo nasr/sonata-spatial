@@ -1,5 +1,5 @@
 {
-    "name": "looptribe/sonata-spatial",
+    "name": "nasr/sonata-spatial",
     "description": "Spatial support for Sonata admin with Google Maps",
     "type": "symfony-bundle",
     "keywords": ["sonata", "admin", "spatial", "gmaps"],
