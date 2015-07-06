@@ -25,6 +25,6 @@
     "autoload": {
         "psr-0": { "Nasr\\SonataSpatialBundle": "" }
     },
-    "target-dir": "Nasr/SonataSpatialBundle",
+    "target-dir": "Looptribe/SonataSpatialBundle",
     "minimum-stability": "dev"
 }
