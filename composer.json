@@ -13,7 +13,7 @@
             "role": "Developer"
         },
         {
-            "name": "nasr"
+            "name": "Nasr"
         }
     ],
     "require": {
@@ -23,7 +23,7 @@
         "ddproxy/doctrine2-spatial": "dev-master"
     },
     "autoload": {
-        "psr-0": { "Looptribe\\SonataSpatialBundle": "" }
+        "psr-0": { "Nasr\\SonataSpatialBundle": "" }
     },
     "target-dir": "Nasr/SonataSpatialBundle",
     "minimum-stability": "dev"
