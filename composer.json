@@ -23,7 +23,7 @@
         "ddproxy/doctrine2-spatial": "dev-master"
     },
     "autoload": {
-        "psr-0": { "Nasr\\SonataSpatialBundle": "" }
+        "psr-0": { "Looptribe\\SonataSpatialBundle": "" }
     },
     "target-dir": "Looptribe/SonataSpatialBundle",
     "minimum-stability": "dev"
